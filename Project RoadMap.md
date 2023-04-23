@@ -1,7 +1,7 @@
 Sprint 1 Requirements:
-- [ ] Join KSU-IS Github organization.
-- [ ] Find a Read.me and project roadmap of a similar project.
-- [ ] Create a Read.me
-- [ ] Create a project roadmap document.
-- [ ] Find and clone an example repository.
-- [ ] Run an example repository to make sure it runs properly.
+- [x] Join KSU-IS Github organization.
+- [x] Find a Read.me and project roadmap of a similar project.
+- [x] Create a Read.me
+- [x] Create a project roadmap file.
+- [x] Find and clone an example repository.
+- [x] Run an example repository to make sure it runs properly.
