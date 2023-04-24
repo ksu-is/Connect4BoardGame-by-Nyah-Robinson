@@ -5,3 +5,12 @@ Sprint 1 Requirements:
 - [x] Create a project roadmap file.
 - [x] Find and clone an example repository.
 - [x] Run an example repository to make sure it runs properly.
+
+Sprint 2 Requirements: 
+- [ ] Get numpy and pygame to import without errors.
+- [x] Allow for 3 in a row horizontal connections to win.
+- [x] Allow for 3 in a row vertical connections to win.
+- [x] Allow for 4 in a row horizontal connections to win.
+- [x] Allow for 4 in a row vertical connections to win.
+- [x] Allow for 5 in a row horizontal connections to win.
+- [x] Allow for 5 in a row vertical connections to win. 
