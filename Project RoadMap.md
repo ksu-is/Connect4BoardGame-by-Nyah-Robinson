@@ -14,3 +14,10 @@ Sprint 2 Requirements:
 - [x] Allow for 4 in a row vertical connections to win.
 - [x] Allow for 5 in a row horizontal connections to win.
 - [x] Allow for 5 in a row vertical connections to win. 
+
+Sprint 3 Requirements:
+- [x] Create PPT slide.
+- [x] Finishing touches to the final code.
+- [x] Error messages in Python.
+- [ ] Modern changes in Connect4 Code.
+- [ ] Get changes to VS to come straight to GitHub.
